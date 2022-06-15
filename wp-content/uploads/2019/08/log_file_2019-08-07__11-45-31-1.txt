@@ -1,0 +1,88 @@
+
+---Downloaded files---
+The import files for: Main demo were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = https://demo-install.wpestate.org
+Data file = /home/wpestate/demo-install.wpestate.org/wp-content/themes/wprentals/wpestate_templates/main-demo/theme_content.xml
+Widget file = /home/wpestate/demo-install.wpestate.org/wp-content/themes/wprentals/wpestate_templates/main-demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+wprentals_admin -> /home/wpestate/demo-install.wpestate.org/wp-content/themes/wprentals/wpestate_templates/main-demo/redux_options.json 
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Widget Area : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Login &amp; Register - No Title - Imported
+Wp Estate Twitter Widget - Latest Tweets - Imported
+
+Secondary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Login &amp; Register - No Title - Imported
+Wp Estate Twitter Widget - Latest Tweets - Imported
+
+First Footer Widget Area : 
+
+Wp Estate: Multiple currency widget - Change Currency - Imported
+Text - ABOUT WP RENTALS - Imported
+
+Second Footer Widget Area : 
+
+Recent Posts - Latest News - Imported
+Search - No Title - Imported
+
+Third Footer Widget Area : 
+
+Wp Estate: Contact - Contact - Imported
+Wp Estate: Social Links - Social Links: - Imported
+
+Top Bar Left Widget Area : 
+
+Wp Estate: Multiple currency widget - Change Currency - Imported
+
+Top Bar Right Widget Area : 
+
+Wp Estate: Social Links - Social Links: - Imported
+
+Owner Page : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+
+orphaned_widgets_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Recent Posts - No Title - Imported to Inactive
+Recent Comments - No Title - Imported to Inactive
+Categories - No Title - Imported to Inactive
+
+custom-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+Wp Estate: Multiple currency widget - Change Currency - Imported to Inactive
+Wp Estate: Advanced Search - Advanced Search - Imported to Inactive
+Wp Estate: Latest Listing  - Latest Listings - Imported to Inactive
+Wp Estate Twitter Widget - Latest Tweets - Imported to Inactive
+Wp Estate: Contact - Contact - Imported to Inactive
+Wp Estate: Featured Listing - No Title - Imported to Inactive
+Wp Estate: Social Links - No Title - Imported to Inactive
+Wp Estate: Facebook Box - Find us on Facebook - Imported to Inactive
+
+
+
+---Importing Redux settings---
+Redux settings import for: wprentals_admin finished successfully!
+
+---pt-ocdi/after_import---
+

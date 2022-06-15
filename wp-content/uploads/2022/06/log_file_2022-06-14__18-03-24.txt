@@ -1,0 +1,436 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/rental
+Data file = C:\xampp\htdocs\rental/wp-content/themes/wprentals/wpestate_templates/main-demo/theme_content.xml
+Widget file = C:\xampp\htdocs\rental/wp-content/themes/wprentals/wpestate_templates/main-demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+wprentals_admin -> C:\xampp\htdocs\rental/wp-content/themes/wprentals/wpestate_templates/main-demo/redux_options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "user_group.svg" (Media)
+[ERROR] Failed to import "house-1.svg" (Media)
+[ERROR] Failed to import "camera-1.svg" (Media)
+[ERROR] Failed to import "publish_listing.svg" (Media)
+[ERROR] Failed to import "evaluate-1.svg" (Media)
+[ERROR] Failed to import "icon_bar-1.svg" (Media)
+
+
+---Importing widgets---
+Primary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Login &amp; Register - No Title - Imported
+Wp Estate: Latest Listing  - Latest Listing - Imported
+
+Secondary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Login &amp; Register - No Title - Imported
+Wp Estate Twitter Widget - Latest Tweets - Imported
+
+First Footer Widget Area : 
+
+Wp Estate: Multiple currency widget - Change Currency - Imported
+Text - ABOUT WP RENTALS - Imported
+
+Second Footer Widget Area : 
+
+Wp Estate: Latest Listing  - Featured Listings - Imported
+
+Third Footer Widget Area : 
+
+Wp Estate: Contact - Contact - Imported
+Wp Estate: Social Links - Social Links: - Imported
+
+Top Bar Left Widget Area : 
+
+Wp Estate: Multiple currency widget - No Title - Imported
+
+Top Bar Right Widget Area : 
+
+Wp Estate: Social Links - No Title - Imported
+
+Owner Page : 
+
+Wp Estate: Login &amp; Register - No Title - Imported
+
+widgets-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Wp Estate: Advanced Search - Advanced Search - Imported to Inactive
+Wp Estate: Contact - Contact - Imported to Inactive
+Wp Estate: Featured Listing - No Title - Imported to Inactive
+Wp Estate: Latest Listing  - Latest Listings - Imported to Inactive
+Wp Estate: Login &amp; Register - No Title - Imported to Inactive
+Wp Estate: Multiple currency widget - Change Your Currency - Imported to Inactive
+Wp Estate: Social Links - Social Links: - Imported to Inactive
+
+
+
+---Importing Redux settings---
+Redux settings import for: wprentals_admin finished successfully!
+
+---ocdi/after_import---
+
